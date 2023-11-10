@@ -1,0 +1,28 @@
+#header {
+    text-align: center;
+}
+
+#img-banner {
+    align: center;
+  
+    width: 100%;
+}
+
+.container{
+    display: flex;
+}
+
+.container img {
+    margin: auto;
+}
+
+.buttoms {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.buttoms button {
+    margin-left: 10px;
+    margin-right: 10px;
+}
